@@ -1,0 +1,15 @@
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\bin\Debug\net6.0\Unit 3 - Shopping List Lab.exe
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\bin\Debug\net6.0\Unit 3 - Shopping List Lab.deps.json
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\bin\Debug\net6.0\Unit 3 - Shopping List Lab.runtimeconfig.json
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\bin\Debug\net6.0\Unit 3 - Shopping List Lab.dll
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\bin\Debug\net6.0\Unit 3 - Shopping List Lab.pdb
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.csproj.AssemblyReference.cache
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.AssemblyInfoInputs.cache
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.AssemblyInfo.cs
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.csproj.CoreCompileInputs.cache
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.dll
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\refint\Unit 3 - Shopping List Lab.dll
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.pdb
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\Unit 3 - Shopping List Lab.genruntimeconfig.cache
+C:\Users\nikku\Projects\Unit 3 - Shopping List Lab App\Unit 3 - Shopping List Lab\obj\Debug\net6.0\ref\Unit 3 - Shopping List Lab.dll
